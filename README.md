@@ -6,15 +6,17 @@
 
 #### ---->users 用户接口
 
-#####     ---->api.py
+##### ---->\__init__.py
+
+##### ---->api.py
 
 ##### ---->model.py
 
-##### ---->\__init__.py
+#### ---->\__init__.py
 
-##### ---->common.py
+#### ---->common.py
 
-##### ---->config.py
+#### ---->config.py
 
 ### ---->migrations 迁移目录
 
